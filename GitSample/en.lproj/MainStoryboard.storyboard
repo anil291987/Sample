@@ -29,7 +29,7 @@
                                     <action selector="clickbutton:" destination="2" eventType="touchUpInside" id="xZY-ta-5xM"/>
                                 </connections>
                             </button>
-                            <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" text=" sdf sdf sdaf dsaf sdf sdaf sdaf dsaf dsaf sdf sd fsd f" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="pKm-TA-ns2">
+                            <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" text="My Textfield" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="pKm-TA-ns2">
                                 <constraints>
                                     <constraint firstAttribute="height" constant="83" id="RQ4-pb-cmD"/>
                                     <constraint firstAttribute="width" constant="232" id="YWH-xF-xI4"/>
