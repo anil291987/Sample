@@ -9,5 +9,5 @@
 #import <UIKit/UIKit.h>
 
 @interface SFViewController : UIViewController
-
+-(IBAction)clickbutton:(id)sender;
 @end
