@@ -1,0 +1,15 @@
+//
+//  SFAppDelegate.h
+//  GitSample
+//
+//  Created by Anil Upadhyay on 02/03/13.
+//  Copyright (c) 2013 SoftwebSolution. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+@interface SFAppDelegate : UIResponder <UIApplicationDelegate>
+
+@property (strong, nonatomic) UIWindow *window;
+
+@end
