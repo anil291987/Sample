@@ -29,9 +29,20 @@
                                     <action selector="clickbutton:" destination="2" eventType="touchUpInside" id="xZY-ta-5xM"/>
                                 </connections>
                             </button>
+                            <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" text=" sdf sdf sdaf dsaf sdf sdaf sdaf dsaf dsaf sdf sd fsd f" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="pKm-TA-ns2">
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="83" id="RQ4-pb-cmD"/>
+                                    <constraint firstAttribute="width" constant="232" id="YWH-xF-xI4"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
                         <constraints>
+                            <constraint firstItem="pKm-TA-ns2" firstAttribute="top" secondItem="3" secondAttribute="top" constant="76" id="AAK-5s-qGN"/>
+                            <constraint firstItem="pKm-TA-ns2" firstAttribute="leading" secondItem="3" secondAttribute="leading" constant="60" id="Eb8-fN-Y0P"/>
                             <constraint firstItem="5hM-CB-dUD" firstAttribute="leading" secondItem="3" secondAttribute="leading" constant="51" id="QP5-gI-kkH"/>
                             <constraint firstItem="5hM-CB-dUD" firstAttribute="top" secondItem="3" secondAttribute="top" constant="179" id="pGT-PG-Fdz"/>
                         </constraints>
