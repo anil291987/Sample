@@ -1,0 +1,322 @@
+TGitSample
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/anilupadhyay/Desktop/GitSample/DerivedData/GitSample/Build/Products/Debug-iphonesimulator/GitSample.app/Info.plist GitSample/GitSample-Info.plist
+cProcessPCH /Users/anilupadhyay/Desktop/GitSample/DerivedData/GitSample/Build/Intermediates/PrecompiledHeaders/GitSample-Prefix-ffksyugaaytnhdehipobkcndzjaj/GitSample-Prefix.pch.pth GitSample/GitSample-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/GitSample/Build/Intermediates/GitSample.build/Debug-iphonesimulator/GitSample.build/Objects-normal/i386/SFViewController.o /Users/anilupadhyay/Desktop/GitSample/GitSample/SFViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/GitSample/Build/Intermediates/GitSample.build/Debug-iphonesimulator/GitSample.build/Objects-normal/i386/main.o /Users/anilupadhyay/Desktop/GitSample/GitSample/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/GitSample/Build/Intermediates/GitSample.build/Debug-iphonesimulator/GitSample.build/Objects-normal/i386/SFAppDelegate.o /Users/anilupadhyay/Desktop/GitSample/GitSample/SFAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/anilupadhyay/Desktop/GitSample/DerivedData/GitSample/Build/Products/Debug-iphonesimulator/GitSample.app/GitSample normal i386
+cGenerateDSYMFile /Users/anilupadhyay/Desktop/GitSample/DerivedData/GitSample/Build/Products/Debug-iphonesimulator/GitSample.app.dSYM /Users/anilupadhyay/Desktop/GitSample/DerivedData/GitSample/Build/Products/Debug-iphonesimulator/GitSample.app/GitSample
+cCopyStringsFile /Users/anilupadhyay/Desktop/GitSample/DerivedData/GitSample/Build/Products/Debug-iphonesimulator/GitSample.app/en.lproj/InfoPlist.strings GitSample/en.lproj/InfoPlist.strings
+cCpResource GitSample/Default.png DerivedData/GitSample/Build/Products/Debug-iphonesimulator/GitSample.app/Default.png
+cCpResource GitSample/Default@2x.png DerivedData/GitSample/Build/Products/Debug-iphonesimulator/GitSample.app/Default@2x.png
+cCpResource GitSample/Default-568h@2x.png DerivedData/GitSample/Build/Products/Debug-iphonesimulator/GitSample.app/Default-568h@2x.png
+cCompileStoryboard /Users/anilupadhyay/Desktop/GitSample/GitSample/en.lproj/MainStoryboard.storyboard
+cTouch /Users/anilupadhyay/Desktop/GitSample/DerivedData/GitSample/Build/Products/Debug-iphonesimulator/GitSample.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk
+c00000000504916AD0000000000000110
+t1346967213
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000504A97620000000000228FD0
+t1347065698
+s2265040
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000504A977000000000003DCEF0
+t1347065712
+s4050672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c00000000504A977000000000000015F7
+t1347065712
+s5623
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c00000000504A979B0000000000000E8D
+t1347065755
+s3725
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000504A979E0000000000AB3D60
+t1347065758
+s11222368
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/usr/include/Availability.h
+c00000000504A983A0000000000001B54
+t1347065914
+s6996
+
+N/Users/anilupadhyay/Desktop/GitSample/DerivedData/GitSample/Build/Intermediates/GitSample.build/Debug-iphonesimulator/GitSample.build/Objects-normal/i386/GitSample.LinkFileList
+c000000005131B35300000000000001F8
+t1362211667
+s504
+
+N/Users/anilupadhyay/Desktop/GitSample/DerivedData/GitSample/Build/Intermediates/GitSample.build/Debug-iphonesimulator/GitSample.build/Objects-normal/i386/SFAppDelegate.o
+t2
+s0
+
+N/Users/anilupadhyay/Desktop/GitSample/DerivedData/GitSample/Build/Intermediates/GitSample.build/Debug-iphonesimulator/GitSample.build/Objects-normal/i386/SFViewController.o
+t2
+s0
+
+N/Users/anilupadhyay/Desktop/GitSample/DerivedData/GitSample/Build/Intermediates/GitSample.build/Debug-iphonesimulator/GitSample.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/anilupadhyay/Desktop/GitSample/DerivedData/GitSample/Build/Intermediates/PrecompiledHeaders/GitSample-Prefix-ffksyugaaytnhdehipobkcndzjaj/GitSample-Prefix.pch.pth
+t2
+s0
+
+N/Users/anilupadhyay/Desktop/GitSample/DerivedData/GitSample/Build/Products/Debug-iphonesimulator/GitSample.app
+t2
+s0
+
+N/Users/anilupadhyay/Desktop/GitSample/DerivedData/GitSample/Build/Products/Debug-iphonesimulator/GitSample.app.dSYM
+t2
+s0
+
+N/Users/anilupadhyay/Desktop/GitSample/DerivedData/GitSample/Build/Products/Debug-iphonesimulator/GitSample.app/Default-568h@2x.png
+t2
+s0
+
+N/Users/anilupadhyay/Desktop/GitSample/DerivedData/GitSample/Build/Products/Debug-iphonesimulator/GitSample.app/Default.png
+t2
+s0
+
+N/Users/anilupadhyay/Desktop/GitSample/DerivedData/GitSample/Build/Products/Debug-iphonesimulator/GitSample.app/Default@2x.png
+t2
+s0
+
+N/Users/anilupadhyay/Desktop/GitSample/DerivedData/GitSample/Build/Products/Debug-iphonesimulator/GitSample.app/GitSample
+t2
+s0
+
+N/Users/anilupadhyay/Desktop/GitSample/DerivedData/GitSample/Build/Products/Debug-iphonesimulator/GitSample.app/Info.plist
+t2
+s0
+
+N/Users/anilupadhyay/Desktop/GitSample/DerivedData/GitSample/Build/Products/Debug-iphonesimulator/GitSample.app/PkgInfo
+t2
+s0
+
+N/Users/anilupadhyay/Desktop/GitSample/DerivedData/GitSample/Build/Products/Debug-iphonesimulator/GitSample.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/anilupadhyay/Desktop/GitSample/DerivedData/GitSample/Build/Products/Debug-iphonesimulator/GitSample.app/en.lproj/MainStoryboard.storyboardc
+t2
+s0
+
+N/Users/anilupadhyay/Desktop/GitSample/GitSample/Default-568h@2x.png
+c0000000050262AB100000000000048A2
+t1344678577
+s18594
+
+N/Users/anilupadhyay/Desktop/GitSample/GitSample/Default.png
+c0000000050262AB1000000000000198C
+t1344678577
+s6540
+
+N/Users/anilupadhyay/Desktop/GitSample/GitSample/Default@2x.png
+c0000000050262AB10000000000003EEB
+t1344678577
+s16107
+
+N/Users/anilupadhyay/Desktop/GitSample/GitSample/GitSample-Prefix.pch
+c00000000513186B10000000000000141
+t1362200241
+s321
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/anilupadhyay/Desktop/GitSample/GitSample/SFAppDelegate.m
+c0000000051318766000000000000081A
+t1362200422
+s2074
+
+N/Users/anilupadhyay/Desktop/GitSample/GitSample/SFViewController.m
+c00000000513186B100000000000001FE
+t1362200241
+s510
+
+N/Users/anilupadhyay/Desktop/GitSample/GitSample/en.lproj/InfoPlist.strings
+c00000000513186B1000000000000002D
+t1362200241
+s45
+
+N/Users/anilupadhyay/Desktop/GitSample/GitSample/en.lproj/MainStoryboard.storyboard
+c000000005131B34F00000000000014CA
+t1362211663
+s5322
+
+N/Users/anilupadhyay/Desktop/GitSample/GitSample/main.m
+c00000000513186B1000000000000015D
+t1362200241
+s349
+
+NGitSample/GitSample-Info.plist
+c00000000513186B100000000000004D9
+t1362200241
+s1241
+
+CBuild AST from /Users/anilupadhyay/Desktop/GitSample/GitSample/SFAppDelegate.m
+r0
+
+CBuild AST from /Users/anilupadhyay/Desktop/GitSample/GitSample/SFViewController.m
+r0
+
+CBuild AST from /Users/anilupadhyay/Desktop/GitSample/GitSample/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies17b66ed3eae1b641^6e89d4d3eae1b641^---0#1#0#--18"Check dependencies36"221A4E2E-009F-4F0D-910C-FE7C65BBE7B7-
+
+CCompileC DerivedData/GitSample/Build/Intermediates/GitSample.build/Debug-iphonesimulator/GitSample.build/Objects-normal/i386/SFAppDelegate.o /Users/anilupadhyay/Desktop/GitSample/GitSample/SFAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s383904471.353102
+e383904471.438423
+r1
+xCompileC
+xDerivedData/GitSample/Build/Intermediates/GitSample.build/Debug-iphonesimulator/GitSample.build/Objects-normal/i386/SFAppDelegate.o
+x/Users/anilupadhyay/Desktop/GitSample/GitSample/SFAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Compile /Users/anilupadhyay/Desktop/GitSample/GitSample/SFAppDelegate.md1935ad7eae1b641^143d70d7eae1b641^---0#0#0#-19%DVTDocumentLocation2@79"file://localhost/Users/anilupadhyay/Desktop/GitSample/GitSample/SFAppDelegate.m0000000000000000^4003"CompileC DerivedData/GitSample/Build/Intermediates/GitSample.build/Debug-iphonesimulator/GitSample.build/Objects-normal/i386/SFAppDelegate.o GitSample/SFAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/anilupadhyay/Desktop/GitSample    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /Users/anilupadhyay/Desktop/GitSample/DerivedData/GitSample/Build/Intermediates/GitSample.build/Debug-iphonesimulator/GitSample.build/GitSample-generated-files.hmap -I/Users/anilupadhyay/Desktop/GitSample/DerivedData/GitSample/Build/Intermediates/GitSample.build/Debug-iphonesimulator/GitSample.build/GitSample-own-target-headers.hmap -I/Users/anilupadhyay/Desktop/GitSample/DerivedData/GitSample/Build/Intermediates/GitSample.build/Debug-iphonesimulator/GitSample.build/GitSample-all-target-headers.hmap -iquote /Users/anilupadhyay/Desktop/GitSample/DerivedData/GitSample/Build/Intermediates/GitSample.build/Debug-iphonesimulator/GitSample.build/GitSample-project-headers.hmap -I/Users/anilupadhyay/Desktop/GitSample/DerivedData/GitSample/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/anilupadhyay/Desktop/GitSample/DerivedData/GitSample/Build/Intermediates/GitSample.build/Debug-iphonesimulator/GitSample.build/DerivedSources/i386 -I/Users/anilupadhyay/Desktop/GitSample/DerivedData/GitSample/Build/Intermediates/GitSample.build/Debug-iphonesimulator/GitSample.build/DerivedSources -F/Users/anilupadhyay/Desktop/GitSample/DerivedData/GitSample/Build/Products/Debug-iphonesimulator -include /Users/anilupadhyay/Desktop/GitSample/DerivedData/GitSample/Build/Intermediates/PrecompiledHeaders/GitSample-Prefix-ffksyugaaytnhdehipobkcndzjaj/GitSample-Prefix.pch -MMD -MT dependencies -MF /Users/anilupadhyay/Desktop/GitSample/DerivedData/GitSample/Build/Intermediates/GitSample.build/Debug-iphonesimulator/GitSample.build/Objects-normal/i386/SFAppDelegate.d --serialize-diagnostics /Users/anilupadhyay/Desktop/GitSample/DerivedData/GitSample/Build/Intermediates/GitSample.build/Debug-iphonesimulator/GitSample.build/Objects-normal/i386/SFAppDelegate.dia -c /Users/anilupadhyay/Desktop/GitSample/GitSample/SFAppDelegate.m -o /Users/anilupadhyay/Desktop/GitSample/DerivedData/GitSample/Build/Intermediates/GitSample.build/Debug-iphonesimulator/GitSample.build/Objects-normal/i386/SFAppDelegate.o36"4A07F3EB-C06D-4C3D-B8F5-6D9919BE0AA0-
+
+CCompileC DerivedData/GitSample/Build/Intermediates/GitSample.build/Debug-iphonesimulator/GitSample.build/Objects-normal/i386/SFViewController.o /Users/anilupadhyay/Desktop/GitSample/GitSample/SFViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s383904471.277980
+e383904471.410569
+r1
+xCompileC
+xDerivedData/GitSample/Build/Intermediates/GitSample.build/Debug-iphonesimulator/GitSample.build/Objects-normal/i386/SFViewController.o
+x/Users/anilupadhyay/Desktop/GitSample/GitSample/SFViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/anilupadhyay/Desktop/GitSample/GitSample/SFViewController.m:15:17: warning: incomplete implementation [-Wincomplete-implementation]
+o@implementation SFViewController
+o                ^
+o/Users/anilupadhyay/Desktop/GitSample/GitSample/SFViewController.h:12:1: note: method definition for 'clickbutton:' not found
+o-(IBAction)clickbutton:(id)sender;
+o^
+o1 warning generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Compile /Users/anilupadhyay/Desktop/GitSample/GitSample/SFViewController.mb85a47d7eae1b641^081c69d7eae1b641^-374"/Users/anilupadhyay/Desktop/GitSample/GitSample/SFViewController.m:15:17: warning: incomplete implementation [-Wincomplete-implementation]@implementation SFViewController                ^/Users/anilupadhyay/Desktop/GitSample/GitSample/SFViewController.h:12:1: note: method definition for 'clickbutton:' not found-(IBAction)clickbutton:(id)sender;^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@25"Incomplete implementation-383904471#18446744073709551615#0#1(2@46"Method definition for 'clickbutton:' not found-383904471#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@82"file://localhost/Users/anilupadhyay/Desktop/GitSample/GitSample/SFViewController.h0000000000000000^11#0#11#0#222#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@82"file://localhost/Users/anilupadhyay/Desktop/GitSample/GitSample/SFViewController.m0000000000000000^14#16#14#16#234#0#14"Semantic Issue--0#0#0#-19%DVTDocumentLocation4@82"file://localhost/Users/anilupadhyay/Desktop/GitSample/GitSample/SFViewController.m0000000000000000^4021"CompileC DerivedData/GitSample/Build/Intermediates/GitSample.build/Debug-iphonesimulator/GitSample.build/Objects-normal/i386/SFViewController.o GitSample/SFViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/anilupadhyay/Desktop/GitSample    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /Users/anilupadhyay/Desktop/GitSample/DerivedData/GitSample/Build/Intermediates/GitSample.build/Debug-iphonesimulator/GitSample.build/GitSample-generated-files.hmap -I/Users/anilupadhyay/Desktop/GitSample/DerivedData/GitSample/Build/Intermediates/GitSample.build/Debug-iphonesimulator/GitSample.build/GitSample-own-target-headers.hmap -I/Users/anilupadhyay/Desktop/GitSample/DerivedData/GitSample/Build/Intermediates/GitSample.build/Debug-iphonesimulator/GitSample.build/GitSample-all-target-headers.hmap -iquote /Users/anilupadhyay/Desktop/GitSample/DerivedData/GitSample/Build/Intermediates/GitSample.build/Debug-iphonesimulator/GitSample.build/GitSample-project-headers.hmap -I/Users/anilupadhyay/Desktop/GitSample/DerivedData/GitSample/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/anilupadhyay/Desktop/GitSample/DerivedData/GitSample/Build/Intermediates/GitSample.build/Debug-iphonesimulator/GitSample.build/DerivedSources/i386 -I/Users/anilupadhyay/Desktop/GitSample/DerivedData/GitSample/Build/Intermediates/GitSample.build/Debug-iphonesimulator/GitSample.build/DerivedSources -F/Users/anilupadhyay/Desktop/GitSample/DerivedData/GitSample/Build/Products/Debug-iphonesimulator -include /Users/anilupadhyay/Desktop/GitSample/DerivedData/GitSample/Build/Intermediates/PrecompiledHeaders/GitSample-Prefix-ffksyugaaytnhdehipobkcndzjaj/GitSample-Prefix.pch -MMD -MT dependencies -MF /Users/anilupadhyay/Desktop/GitSample/DerivedData/GitSample/Build/Intermediates/GitSample.build/Debug-iphonesimulator/GitSample.build/Objects-normal/i386/SFViewController.d --serialize-diagnostics /Users/anilupadhyay/Desktop/GitSample/DerivedData/GitSample/Build/Intermediates/GitSample.build/Debug-iphonesimulator/GitSample.build/Objects-normal/i386/SFViewController.dia -c /Users/anilupadhyay/Desktop/GitSample/GitSample/SFViewController.m -o /Users/anilupadhyay/Desktop/GitSample/DerivedData/GitSample/Build/Intermediates/GitSample.build/Debug-iphonesimulator/GitSample.build/Objects-normal/i386/SFViewController.o36"83764B2A-9C55-4508-BAF2-5BBCF8616F68-
+
+CCompileC DerivedData/GitSample/Build/Intermediates/GitSample.build/Debug-iphonesimulator/GitSample.build/Objects-normal/i386/main.o /Users/anilupadhyay/Desktop/GitSample/GitSample/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s383904471.279511
+e383904471.351670
+r1
+xCompileC
+xDerivedData/GitSample/Build/Intermediates/GitSample.build/Debug-iphonesimulator/GitSample.build/Objects-normal/i386/main.o
+x/Users/anilupadhyay/Desktop/GitSample/GitSample/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"Compile /Users/anilupadhyay/Desktop/GitSample/GitSample/main.m1bbb48d7eae1b641^07085ad7eae1b641^---0#0#0#-19%DVTDocumentLocation2@70"file://localhost/Users/anilupadhyay/Desktop/GitSample/GitSample/main.m0000000000000000^3949"CompileC DerivedData/GitSample/Build/Intermediates/GitSample.build/Debug-iphonesimulator/GitSample.build/Objects-normal/i386/main.o GitSample/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/anilupadhyay/Desktop/GitSample    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /Users/anilupadhyay/Desktop/GitSample/DerivedData/GitSample/Build/Intermediates/GitSample.build/Debug-iphonesimulator/GitSample.build/GitSample-generated-files.hmap -I/Users/anilupadhyay/Desktop/GitSample/DerivedData/GitSample/Build/Intermediates/GitSample.build/Debug-iphonesimulator/GitSample.build/GitSample-own-target-headers.hmap -I/Users/anilupadhyay/Desktop/GitSample/DerivedData/GitSample/Build/Intermediates/GitSample.build/Debug-iphonesimulator/GitSample.build/GitSample-all-target-headers.hmap -iquote /Users/anilupadhyay/Desktop/GitSample/DerivedData/GitSample/Build/Intermediates/GitSample.build/Debug-iphonesimulator/GitSample.build/GitSample-project-headers.hmap -I/Users/anilupadhyay/Desktop/GitSample/DerivedData/GitSample/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/anilupadhyay/Desktop/GitSample/DerivedData/GitSample/Build/Intermediates/GitSample.build/Debug-iphonesimulator/GitSample.build/DerivedSources/i386 -I/Users/anilupadhyay/Desktop/GitSample/DerivedData/GitSample/Build/Intermediates/GitSample.build/Debug-iphonesimulator/GitSample.build/DerivedSources -F/Users/anilupadhyay/Desktop/GitSample/DerivedData/GitSample/Build/Products/Debug-iphonesimulator -include /Users/anilupadhyay/Desktop/GitSample/DerivedData/GitSample/Build/Intermediates/PrecompiledHeaders/GitSample-Prefix-ffksyugaaytnhdehipobkcndzjaj/GitSample-Prefix.pch -MMD -MT dependencies -MF /Users/anilupadhyay/Desktop/GitSample/DerivedData/GitSample/Build/Intermediates/GitSample.build/Debug-iphonesimulator/GitSample.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/anilupadhyay/Desktop/GitSample/DerivedData/GitSample/Build/Intermediates/GitSample.build/Debug-iphonesimulator/GitSample.build/Objects-normal/i386/main.dia -c /Users/anilupadhyay/Desktop/GitSample/GitSample/main.m -o /Users/anilupadhyay/Desktop/GitSample/DerivedData/GitSample/Build/Intermediates/GitSample.build/Debug-iphonesimulator/GitSample.build/Objects-normal/i386/main.o36"E8D1AA69-5D4F-42EF-9BE9-A86568195B98-
+
+CCompileStoryboard /Users/anilupadhyay/Desktop/GitSample/GitSample/en.lproj/MainStoryboard.storyboard
+s383904471.814605
+e383904471.930943
+r1
+xCompileStoryboard
+x/Users/anilupadhyay/Desktop/GitSample/GitSample/en.lproj/MainStoryboard.storyboard
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"CompileStoryboard GitSample/en.lproj/MainStoryboard.storyboard51a3d0d7eae1b641^897cefd7eae1b641^---0#0#0#-19%DVTDocumentLocation2@98"file://localhost/Users/anilupadhyay/Desktop/GitSample/GitSample/en.lproj/MainStoryboard.storyboard0000000000000000^978"CompileStoryboard GitSample/en.lproj/MainStoryboard.storyboard    cd /Users/anilupadhyay/Desktop/GitSample    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 6.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/anilupadhyay/Desktop/GitSample/DerivedData/GitSample/Build/Products/Debug-iphonesimulator/GitSample.app/en.lproj/MainStoryboard.storyboardc /Users/anilupadhyay/Desktop/GitSample/GitSample/en.lproj/MainStoryboard.storyboard --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk36"C6C98B00-7B62-4D78-8846-93DCB8043C9E-
+
+CCopyStringsFile /Users/anilupadhyay/Desktop/GitSample/DerivedData/GitSample/Build/Products/Debug-iphonesimulator/GitSample.app/en.lproj/InfoPlist.strings GitSample/en.lproj/InfoPlist.strings
+s383904471.803813
+e383904471.808019
+r1
+xCopyStringsFile
+x/Users/anilupadhyay/Desktop/GitSample/DerivedData/GitSample/Build/Products/Debug-iphonesimulator/GitSample.app/en.lproj/InfoPlist.strings
+xGitSample/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy GitSample/en.lproj/InfoPlist.strings83e0cdd7eae1b641^29e8ced7eae1b641^---0#0#0#-19%DVTDocumentLocation2@90"file://localhost/Users/anilupadhyay/Desktop/GitSample/GitSample/en.lproj/InfoPlist.strings0000000000000000^643"CopyStringsFile DerivedData/GitSample/Build/Products/Debug-iphonesimulator/GitSample.app/en.lproj/InfoPlist.strings GitSample/en.lproj/InfoPlist.strings    cd /Users/anilupadhyay/Desktop/GitSample    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/anilupadhyay/Desktop/GitSample/DerivedData/GitSample/Build/Products/Debug-iphonesimulator/GitSample.app/en.lproj -- GitSample/en.lproj/InfoPlist.strings36"E097DDC6-0122-4FBF-99D9-E54BA29E9CA4-
+
+CCpResource GitSample/Default-568h@2x.png DerivedData/GitSample/Build/Products/Debug-iphonesimulator/GitSample.app/Default-568h@2x.png
+s383904471.809614
+e383904471.815251
+r1
+xCpResource
+xGitSample/Default-568h@2x.png
+xDerivedData/GitSample/Build/Products/Debug-iphonesimulator/GitSample.app/Default-568h@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Copy DerivedData/GitSample/Build/Products/Debug-iphonesimulator/GitSample.app/Default-568h@2x.png5859cfd7eae1b641^0fb6d0d7eae1b641^---0#0#0#-19%DVTDocumentLocation2@146"file://localhost/Users/anilupadhyay/Desktop/GitSample/DerivedData/GitSample/Build/Products/Debug-iphonesimulator/GitSample.app/Default-568h@2x.png000000000080d041^671"CpResource "GitSample/Default-568h@2x.png" "DerivedData/GitSample/Build/Products/Debug-iphonesimulator/GitSample.app/Default-568h@2x.png"    cd /Users/anilupadhyay/Desktop/GitSample    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/anilupadhyay/Desktop/GitSample/GitSample/Default-568h@2x.png" /Users/anilupadhyay/Desktop/GitSample/DerivedData/GitSample/Build/Products/Debug-iphonesimulator/GitSample.app36"9C9A210B-6B45-46D9-8244-61543BA95FD3-
+
+CCpResource GitSample/Default.png DerivedData/GitSample/Build/Products/Debug-iphonesimulator/GitSample.app/Default.png
+s383904471.804008
+e383904471.808744
+r1
+xCpResource
+xGitSample/Default.png
+xDerivedData/GitSample/Build/Products/Debug-iphonesimulator/GitSample.app/Default.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Copy DerivedData/GitSample/Build/Products/Debug-iphonesimulator/GitSample.app/Default.png96e7cdd7eae1b641^5e12cfd7eae1b641^---0#0#0#-19%DVTDocumentLocation2@138"file://localhost/Users/anilupadhyay/Desktop/GitSample/DerivedData/GitSample/Build/Products/Debug-iphonesimulator/GitSample.app/Default.png000000000080d041^641"CpResource GitSample/Default.png DerivedData/GitSample/Build/Products/Debug-iphonesimulator/GitSample.app/Default.png    cd /Users/anilupadhyay/Desktop/GitSample    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/anilupadhyay/Desktop/GitSample/GitSample/Default.png /Users/anilupadhyay/Desktop/GitSample/DerivedData/GitSample/Build/Products/Debug-iphonesimulator/GitSample.app36"8819D410-1F70-424F-B621-E75798384C53-
+
+CCpResource GitSample/Default@2x.png DerivedData/GitSample/Build/Products/Debug-iphonesimulator/GitSample.app/Default@2x.png
+s383904471.809220
+e383904471.812803
+r1
+xCpResource
+xGitSample/Default@2x.png
+xDerivedData/GitSample/Build/Products/Debug-iphonesimulator/GitSample.app/Default@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Copy DerivedData/GitSample/Build/Products/Debug-iphonesimulator/GitSample.app/Default@2x.pngdb52cfd7eae1b641^5d19d0d7eae1b641^---0#0#0#-19%DVTDocumentLocation2@141"file://localhost/Users/anilupadhyay/Desktop/GitSample/DerivedData/GitSample/Build/Products/Debug-iphonesimulator/GitSample.app/Default@2x.png000000000080d041^656"CpResource "GitSample/Default@2x.png" "DerivedData/GitSample/Build/Products/Debug-iphonesimulator/GitSample.app/Default@2x.png"    cd /Users/anilupadhyay/Desktop/GitSample    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/anilupadhyay/Desktop/GitSample/GitSample/Default@2x.png" /Users/anilupadhyay/Desktop/GitSample/DerivedData/GitSample/Build/Products/Debug-iphonesimulator/GitSample.app36"B1D25402-AFF6-4A46-9FEA-AA015549D03D-
+
+CGenerateDSYMFile /Users/anilupadhyay/Desktop/GitSample/DerivedData/GitSample/Build/Products/Debug-iphonesimulator/GitSample.app.dSYM /Users/anilupadhyay/Desktop/GitSample/DerivedData/GitSample/Build/Products/Debug-iphonesimulator/GitSample.app/GitSample
+s383904471.674853
+e383904471.794997
+r1
+xGenerateDSYMFile
+x/Users/anilupadhyay/Desktop/GitSample/DerivedData/GitSample/Build/Products/Debug-iphonesimulator/GitSample.app.dSYM
+x/Users/anilupadhyay/Desktop/GitSample/DerivedData/GitSample/Build/Products/Debug-iphonesimulator/GitSample.app/GitSample
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection126"Generating /Users/anilupadhyay/Desktop/GitSample/DerivedData/GitSample/Build/Products/Debug-iphonesimulator/GitSample.app.dSYM83ddacd7eae1b641^4e99cbd7eae1b641^---0#0#0#-19%DVTDocumentLocation2@131"file://localhost/Users/anilupadhyay/Desktop/GitSample/DerivedData/GitSample/Build/Products/Debug-iphonesimulator/GitSample.app.dSYM000000000080d041^758"GenerateDSYMFile DerivedData/GitSample/Build/Products/Debug-iphonesimulator/GitSample.app.dSYM DerivedData/GitSample/Build/Products/Debug-iphonesimulator/GitSample.app/GitSample    cd /Users/anilupadhyay/Desktop/GitSample    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/anilupadhyay/Desktop/GitSample/DerivedData/GitSample/Build/Products/Debug-iphonesimulator/GitSample.app/GitSample -o /Users/anilupadhyay/Desktop/GitSample/DerivedData/GitSample/Build/Products/Debug-iphonesimulator/GitSample.app.dSYM36"D2ACDF45-BA0A-4019-A4E6-548FBF60292D-
+
+CLd /Users/anilupadhyay/Desktop/GitSample/DerivedData/GitSample/Build/Products/Debug-iphonesimulator/GitSample.app/GitSample normal i386
+s383904471.445444
+e383904471.639488
+r1
+xLd
+x/Users/anilupadhyay/Desktop/GitSample/DerivedData/GitSample/Build/Products/Debug-iphonesimulator/GitSample.app/GitSample
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection125"Link /Users/anilupadhyay/Desktop/GitSample/DerivedData/GitSample/Build/Products/Debug-iphonesimulator/GitSample.app/GitSample043772d7eae1b641^d28db4d7eae1b641^---0#0#0#--1316"Ld DerivedData/GitSample/Build/Products/Debug-iphonesimulator/GitSample.app/GitSample normal i386    cd /Users/anilupadhyay/Desktop/GitSample    setenv IPHONEOS_DEPLOYMENT_TARGET 6.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -L/Users/anilupadhyay/Desktop/GitSample/DerivedData/GitSample/Build/Products/Debug-iphonesimulator -F/Users/anilupadhyay/Desktop/GitSample/DerivedData/GitSample/Build/Products/Debug-iphonesimulator -filelist /Users/anilupadhyay/Desktop/GitSample/DerivedData/GitSample/Build/Intermediates/GitSample.build/Debug-iphonesimulator/GitSample.build/Objects-normal/i386/GitSample.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=6.0 -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/anilupadhyay/Desktop/GitSample/DerivedData/GitSample/Build/Products/Debug-iphonesimulator/GitSample.app/GitSample36"78D97FF5-3295-46C1-9BBF-F842C45E8B4A-
+
+CProcessInfoPlistFile /Users/anilupadhyay/Desktop/GitSample/DerivedData/GitSample/Build/Products/Debug-iphonesimulator/GitSample.app/Info.plist GitSample/GitSample-Info.plist
+s383904467.844759
+e383904467.884261
+r1
+xProcessInfoPlistFile
+x/Users/anilupadhyay/Desktop/GitSample/DerivedData/GitSample/Build/Products/Debug-iphonesimulator/GitSample.app/Info.plist
+xGitSample/GitSample-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection38"Process GitSample/GitSample-Info.plistd063d8d3eae1b641^ef71e2d3eae1b641^---0#0#0#-19%DVTDocumentLocation2@84"file://localhost/Users/anilupadhyay/Desktop/GitSample/GitSample/GitSample-Info.plist0000000000000000^754"ProcessInfoPlistFile DerivedData/GitSample/Build/Products/Debug-iphonesimulator/GitSample.app/Info.plist GitSample/GitSample-Info.plist    cd /Users/anilupadhyay/Desktop/GitSample    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility GitSample/GitSample-Info.plist -genpkginfo /Users/anilupadhyay/Desktop/GitSample/DerivedData/GitSample/Build/Products/Debug-iphonesimulator/GitSample.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/anilupadhyay/Desktop/GitSample/DerivedData/GitSample/Build/Products/Debug-iphonesimulator/GitSample.app/Info.plist36"712E9030-D746-4DD0-9BE9-64F1B9A161BA-
+
+CProcessPCH /Users/anilupadhyay/Desktop/GitSample/DerivedData/GitSample/Build/Intermediates/PrecompiledHeaders/GitSample-Prefix-ffksyugaaytnhdehipobkcndzjaj/GitSample-Prefix.pch.pth GitSample/GitSample-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s383904467.893066
+e383904471.238194
+r1
+xProcessPCH
+x/Users/anilupadhyay/Desktop/GitSample/DerivedData/GitSample/Build/Intermediates/PrecompiledHeaders/GitSample-Prefix-ffksyugaaytnhdehipobkcndzjaj/GitSample-Prefix.pch.pth
+xGitSample/GitSample-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Precompile GitSample/GitSample-Prefix.pch36cce4d3eae1b641^25e83fd7eae1b641^---0#0#0#-19%DVTDocumentLocation2@84"file://localhost/Users/anilupadhyay/Desktop/GitSample/GitSample/GitSample-Prefix.pch0000000000000000^3843"ProcessPCH DerivedData/GitSample/Build/Intermediates/PrecompiledHeaders/GitSample-Prefix-ffksyugaaytnhdehipobkcndzjaj/GitSample-Prefix.pch.pth GitSample/GitSample-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/anilupadhyay/Desktop/GitSample    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /Users/anilupadhyay/Desktop/GitSample/DerivedData/GitSample/Build/Intermediates/GitSample.build/Debug-iphonesimulator/GitSample.build/GitSample-generated-files.hmap -I/Users/anilupadhyay/Desktop/GitSample/DerivedData/GitSample/Build/Intermediates/GitSample.build/Debug-iphonesimulator/GitSample.build/GitSample-own-target-headers.hmap -I/Users/anilupadhyay/Desktop/GitSample/DerivedData/GitSample/Build/Intermediates/GitSample.build/Debug-iphonesimulator/GitSample.build/GitSample-all-target-headers.hmap -iquote /Users/anilupadhyay/Desktop/GitSample/DerivedData/GitSample/Build/Intermediates/GitSample.build/Debug-iphonesimulator/GitSample.build/GitSample-project-headers.hmap -I/Users/anilupadhyay/Desktop/GitSample/DerivedData/GitSample/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/anilupadhyay/Desktop/GitSample/DerivedData/GitSample/Build/Intermediates/GitSample.build/Debug-iphonesimulator/GitSample.build/DerivedSources/i386 -I/Users/anilupadhyay/Desktop/GitSample/DerivedData/GitSample/Build/Intermediates/GitSample.build/Debug-iphonesimulator/GitSample.build/DerivedSources -F/Users/anilupadhyay/Desktop/GitSample/DerivedData/GitSample/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/anilupadhyay/Desktop/GitSample/DerivedData/GitSample/Build/Intermediates/PrecompiledHeaders/GitSample-Prefix-ffksyugaaytnhdehipobkcndzjaj/GitSample-Prefix.pch.dia -c /Users/anilupadhyay/Desktop/GitSample/GitSample/GitSample-Prefix.pch -o /Users/anilupadhyay/Desktop/GitSample/DerivedData/GitSample/Build/Intermediates/PrecompiledHeaders/GitSample-Prefix-ffksyugaaytnhdehipobkcndzjaj/GitSample-Prefix.pch.pth -MMD -MT dependencies -MF /Users/anilupadhyay/Desktop/GitSample/DerivedData/GitSample/Build/Intermediates/PrecompiledHeaders/GitSample-Prefix-ffksyugaaytnhdehipobkcndzjaj/GitSample-Prefix.pch.d36"42C5CBA7-9C62-4741-9D74-D553A1296FBB-
+
+CProcessPCH /Users/anilupadhyay/Desktop/GitSample/DerivedData/GitSample/Index/PrecompiledHeaders/GitSample-Prefix-dzjqxoqzhhglmjevkurvawcxpekc_ast/GitSample-Prefix.pch.pth GitSample/GitSample-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/anilupadhyay/Desktop/GitSample/DerivedData/GitSample/Build/Products/Debug-iphonesimulator/GitSample.app
+s383904471.944494
+e383904471.993783
+r1
+xTouch
+x/Users/anilupadhyay/Desktop/GitSample/DerivedData/GitSample/Build/Products/Debug-iphonesimulator/GitSample.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"Touch /Users/anilupadhyay/Desktop/GitSample/DerivedData/GitSample/Build/Products/Debug-iphonesimulator/GitSample.appf4e1f1d7eae1b641^807ffed7eae1b641^---0#0#0#--452"Touch DerivedData/GitSample/Build/Products/Debug-iphonesimulator/GitSample.app    cd /Users/anilupadhyay/Desktop/GitSample    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/anilupadhyay/Desktop/GitSample/DerivedData/GitSample/Build/Products/Debug-iphonesimulator/GitSample.app36"1E72191A-18BA-424F-8D5E-B19356476ABB-
+
